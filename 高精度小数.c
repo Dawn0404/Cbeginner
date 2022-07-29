@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int next(int k, int p);
 int main()
 {
     printf("input:");
